@@ -1,5 +1,7 @@
 # alp-listen [![NPM version][npm-image]][npm-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alpjs/alp-listen.svg)](https://greenkeeper.io/)
+
 Listen function, using config and logger for alp server
 
 [![Dependency ci Status][dependencyci-image]][dependencyci-url]
